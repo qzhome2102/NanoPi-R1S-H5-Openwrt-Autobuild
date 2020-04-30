@@ -4,7 +4,7 @@
 # Author: tjuyy
 #=================================================
 
-name: NanoPi R1S-H5 OpenWrt 19.07 Autobuild
+name: NanoPi R1S-H5 OpenWrt 19.07 Autobuild 1
 
 on:
   release:
